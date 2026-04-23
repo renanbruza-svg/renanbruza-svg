@@ -2,7 +2,7 @@
 
 **`Data Scientist | Engenheiro de Bioprocessos | IA Aplicada à Saúde`**
 
-Tenho 26 anos, moro em Sorocaba/SP e sou formado em Engenharia de Bioprocessos e Biotecnologia. Atualmente, estou cursando pós-graduação no **Hospital Sírio-Libanês**, focando minha carreira e meus projetos em **Data Science aplicado à saúde**. 
+Sou formado em Engenharia de Bioprocessos e Biotecnologia. Atualmente, estou cursando pós-graduação no **Hospital Sírio-Libanês**, focando minha carreira e meus projetos em **Data Science aplicado à saúde**. 
 
 Sou apaixonado por integrar biologia, tecnologia e dados para resolver problemas complexos no setor de *HealthTech*. Como um entusiasta autodidata em Inteligência Artificial, utilizo Python, Pandas e análises quantitativas no meu dia a dia, tanto para modelagem de dados na área médica quanto para simulações e métricas financeiras.
 
